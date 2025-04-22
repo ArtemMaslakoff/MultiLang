@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLang-Library", "MultiLang-Library\MultiLang-Library.csproj", "{195A38ED-0F83-431A-B83C-B63BECE903E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLang-ConsoleSandbox", "MultiLang-ConsoleSandbox\MultiLang-ConsoleSandbox.csproj", "{F23DB12D-E121-4430-898E-69B5F9B64CC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195A38ED-0F83-431A-B83C-B63BECE903E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195A38ED-0F83-431A-B83C-B63BECE903E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195A38ED-0F83-431A-B83C-B63BECE903E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195A38ED-0F83-431A-B83C-B63BECE903E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23DB12D-E121-4430-898E-69B5F9B64CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23DB12D-E121-4430-898E-69B5F9B64CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23DB12D-E121-4430-898E-69B5F9B64CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23DB12D-E121-4430-898E-69B5F9B64CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FD5395-1470-40D6-886E-E9743814E6F1}
+	EndGlobalSection
+EndGlobal

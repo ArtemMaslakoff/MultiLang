@@ -1,0 +1,12 @@
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\bin\Debug\net9.0\MultiLang-Library.deps.json
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\bin\Debug\net9.0\MultiLang-Library.dll
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\bin\Debug\net9.0\MultiLang-Library.pdb
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\obj\Debug\net9.0\MultiLang-Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\obj\Debug\net9.0\MultiLang-Library.AssemblyInfoInputs.cache
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\obj\Debug\net9.0\MultiLang-Library.AssemblyInfo.cs
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\obj\Debug\net9.0\MultiLang-Library.csproj.CoreCompileInputs.cache
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\obj\Debug\net9.0\MultiLang-Library.sourcelink.json
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\obj\Debug\net9.0\MultiLang-Library.dll
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\obj\Debug\net9.0\refint\MultiLang-Library.dll
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\obj\Debug\net9.0\MultiLang-Library.pdb
+D:\Проекты\GitHub\MultiLang\src\MultiLang\MultiLang-Library\obj\Debug\net9.0\ref\MultiLang-Library.dll

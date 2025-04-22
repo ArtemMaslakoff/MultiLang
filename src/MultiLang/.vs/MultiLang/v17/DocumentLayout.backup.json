@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F23DB12D-E121-4430-898E-69B5F9B64CC6}|MultiLang-ConsoleSandbox\\MultiLang-ConsoleSandbox.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\github\\multilang\\src\\multilang\\multilang-consolesandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23DB12D-E121-4430-898E-69B5F9B64CC6}|MultiLang-ConsoleSandbox\\MultiLang-ConsoleSandbox.csproj|solutionrelative:multilang-consolesandbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195A38ED-0F83-431A-B83C-B63BECE903E5}|MultiLang-Library\\MultiLang-Library.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\github\\multilang\\src\\multilang\\multilang-library\\mlstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195A38ED-0F83-431A-B83C-B63BECE903E5}|MultiLang-Library\\MultiLang-Library.csproj|solutionrelative:multilang-library\\mlstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195A38ED-0F83-431A-B83C-B63BECE903E5}|MultiLang-Library\\MultiLang-Library.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\github\\multilang\\src\\multilang\\multilang-library\\languagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195A38ED-0F83-431A-B83C-B63BECE903E5}|MultiLang-Library\\MultiLang-Library.csproj|solutionrelative:multilang-library\\languagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195A38ED-0F83-431A-B83C-B63BECE903E5}|MultiLang-Library\\MultiLang-Library.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\github\\multilang\\src\\multilang\\multilang-library\\multilang-library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{195A38ED-0F83-431A-B83C-B63BECE903E5}|MultiLang-Library\\MultiLang-Library.csproj|solutionrelative:multilang-library\\multilang-library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195A38ED-0F83-431A-B83C-B63BECE903E5}|MultiLang-Library\\MultiLang-Library.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\github\\multilang\\src\\multilang\\multilang-library\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195A38ED-0F83-431A-B83C-B63BECE903E5}|MultiLang-Library\\MultiLang-Library.csproj|solutionrelative:multilang-library\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-ConsoleSandbox\\Program.cs",
+              "RelativeDocumentMoniker": "MultiLang-ConsoleSandbox\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-ConsoleSandbox\\Program.cs",
+              "RelativeToolTip": "MultiLang-ConsoleSandbox\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:43:18.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiLang-Library.csproj",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-Library\\MultiLang-Library.csproj",
+              "RelativeDocumentMoniker": "MultiLang-Library\\MultiLang-Library.csproj",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-Library\\MultiLang-Library.csproj",
+              "RelativeToolTip": "MultiLang-Library\\MultiLang-Library.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T20:50:00.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-Library\\Language.cs",
+              "RelativeDocumentMoniker": "MultiLang-Library\\Language.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-Library\\Language.cs",
+              "RelativeToolTip": "MultiLang-Library\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:46:08.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageManager.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-Library\\LanguageManager.cs",
+              "RelativeDocumentMoniker": "MultiLang-Library\\LanguageManager.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-Library\\LanguageManager.cs",
+              "RelativeToolTip": "MultiLang-Library\\LanguageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:17:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MLString.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-Library\\MLString.cs",
+              "RelativeDocumentMoniker": "MultiLang-Library\\MLString.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GitHub\\MultiLang\\src\\MultiLang\\MultiLang-Library\\MLString.cs",
+              "RelativeToolTip": "MultiLang-Library\\MLString.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:44:11.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
